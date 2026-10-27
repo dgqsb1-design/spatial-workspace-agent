@@ -1,0 +1,11 @@
+torch
+transformers>=4.57
+accelerate
+pillow
+opencv-python
+numpy
+python-docx
+# optional, only for --voice (offline keyword spotting):
+# SpeechRecognition
+# pyaudio
+# pocketsphinx
